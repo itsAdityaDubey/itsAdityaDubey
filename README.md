@@ -6,7 +6,19 @@
 <br>THE EXPERIENCE YOU CREATE WITH IT
 <br>IS EVERYTHING
 </p>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <img align="right" width="40%" src="/assets/banner2.jpg">
-sxdfghghj
+<br>
+<p align="center">
+<br>
+<br>
+<br>
+<br>
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+---
+
+** *Disclaimer: Hey! there is a lot more about me. We can talk about it later (Professionally 😉).* <br>
+~~I know it doesn't look good on phones 🙄🥲~~
