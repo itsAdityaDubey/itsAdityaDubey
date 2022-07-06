@@ -9,14 +9,24 @@
 <br><br><br><br><br>
 
 <img align="right" width="40%" src="/assets/banner2.jpg">
-<br>
+<br><br><br><br><br>
 <p align="center">
-<br>
-<br>
-<br>
-<br>
+<br>🧑‍💻 Languages 🧑‍💻
+<br>Python
+<br>C++
+<br>PHP
+<br>Java
+<br>Javascript
+<br>🛢️ Databases 🛢️
+<br>MYSQL
+<br>MongoDB
+<br>Oracle DB
+<br>⚡ Technologies ⚡
+<br>Node.js
+<br>React
+<br>Angular
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
