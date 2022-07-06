@@ -1,16 +1,11 @@
-### Hi there 👋
+<img align="left" width="600" src="/assets/banner1.jpg">
+<br><br><br><br><br>
+<p align="center">
+<br>THE TECHNOLOGY YOU USE
+<br>IMPRESSES NO ONE
+<br>THE EXPERIENCE YOU CREATE WITH IT
+<br>IS EVERYTHING
+</p>
+<br><br><br><br><br><br><br>
 
-<!--
-**itsAdityaDubey/itsAdityaDubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="412" src="/assets/banner2.jpg">
