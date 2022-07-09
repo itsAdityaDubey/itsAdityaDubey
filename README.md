@@ -19,7 +19,7 @@ Python
 <br>Java
 <br>Javascript
 </p>
-<h4 align="center">🛢️ Databases 🛢️💻</h3>
+<h4 align="center">🛢️ Databases 🛢️</h3>
 <p align="center">
 MYSQL
 <br>MongoDB
