@@ -10,7 +10,7 @@
 <br><br><br><br><br>
 
 <img align="right" width="40%" src="/assets/banner2.jpg">
-<br><br><br><be><br>
+<br><br><br>
 <br><h4 align="center">🧑‍💻 Languages 🧑‍💻</h3>
 <p align="center">
 Python
