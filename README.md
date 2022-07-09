@@ -1,3 +1,4 @@
+
 <img align="left" width="60%" src="/assets/banner1.jpg">
 <br><br><br><br><br>
 <p align="center">
@@ -10,19 +11,23 @@
 
 <img align="right" width="40%" src="/assets/banner2.jpg">
 <br><br><br><be><br>
+<br><h4 align="center">🧑‍💻 Languages 🧑‍💻</h3>
 <p align="center">
-<br>🧑‍💻 Languages 🧑‍💻
-<br>Python
+Python
 <br>C++
 <br>PHP
 <br>Java
 <br>Javascript
-<br>🛢️ Databases 🛢️
-<br>MYSQL
+</p>
+<h4 align="center">🛢️ Databases 🛢️💻</h3>
+<p align="center">
+MYSQL
 <br>MongoDB
 <br>Oracle DB
-<br>⚡ Technologies ⚡
-<br>Node.js
+</p>
+<h4 align="center">⚡ Technologies ⚡</h3>
+<p align="center">
+Node.js
 <br>React
 <br>Angular
 </p>
